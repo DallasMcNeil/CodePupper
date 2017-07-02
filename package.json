@@ -1,0 +1,8 @@
+{
+  "name": "codepupper",
+  "version": "1.0.0",
+  "description": "A pupper to run your code!",
+  "main": "index.js",
+  "author": "Dallas McNeil",
+  "license": "MIT"
+}
